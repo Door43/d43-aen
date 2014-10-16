@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[aen:home|Door43 (aen)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-aen|d43-aen repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-aen/archive/master.zip|d43-aen.zip]]
+
+**Recent Changes**
+{{changes>ns = aen}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/aen|Ethnologue data]]
+
